@@ -12,7 +12,7 @@ Actualmente desarrollo proyectos académicos y profesionales, incluyendo **landi
 ![Frontend](https://skillicons.dev/icons?i=angular,react,typescript,html,css,tailwind)
 
 **Backend** <br>
-![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,python)
+![Backend](https://skillicons.dev/icons?i=nestjs,typescript,python)
 
 **Bases de datos y herramientas** <br>
 ![Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github)

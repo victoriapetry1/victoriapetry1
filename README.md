@@ -2,7 +2,7 @@
 
 ### 💻 Desarrolladora Full Stack en formación
 
-Soy Analista en sistemas y estudiante de **4.º año de Ingeniería en Sistemas** y me interesa especialmente el desarrollo de aplicaciones web y el desarrollo **Full Stack**.
+Soy **Analista en Sistemas** y estudiante de **4.º año de Ingeniería en Sistemas** y me interesa especialmente el desarrollo de aplicaciones web y el desarrollo **Full Stack**.
 
 Actualmente desarrollo proyectos académicos y profesionales, incluyendo **landing pages y sitios web para empresas**. Me interesa crear soluciones funcionales, creativas y con una buena experiencia de usuario.
 
